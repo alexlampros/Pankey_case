@@ -13,6 +13,10 @@ We use perform a **Factor Analysis** using **Principal Component Analysis** to c
 When we correlate these factors with overall satisfaction, we find that the Newness and Difficulty of the material in Pankey's courses do not play a significant role in overall satisfaction. 
 ![correlation]()
 
+We perform **Cluster Analysis** on our reduced set of factors to segment our customers. 
+
+## Conclusion
+
 
 ## Pankey's Origninal Questionnaire
 ![Alt text](https://github.com/alexlampros/Pankey_case/blob/main/pankey%20survey%201.png)
