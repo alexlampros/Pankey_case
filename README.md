@@ -12,7 +12,7 @@ Our client Pankey Dental Institute provides continuous education services to den
 
 
 
-We perform **Cluster Analysis** on our reduced set of factors to segment our customers. 
+- We perform **Cluster Analysis** on our reduced set of factors to segment our customers. 
 ![cluster analysis](https://github.com/alexlampros/Pankey_case/blob/main/cluster%20analysis.png)
 
 
