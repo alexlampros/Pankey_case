@@ -25,9 +25,9 @@ Our client Pankey Dental Institute provides continuous education services to den
 ![by practice](https://github.com/alexlampros/Pankey_case/blob/main/improvement%20by%20practice%20type.png)
 
 ### 5. In terms of the "Value for Money" Factor, Courses V and VI offered exceptional value for money. Individual practices received good value for money whereas group practices did not. Finally, non-metro practices felt they received better value than metro practices. \
-![table 8(https://github.com/alexlampros/Pankey_case/blob/main/Table%208.png)
-![table 9(https://github.com/alexlampros/Pankey_case/blob/main/Table%209.png)
-![table 10(https://github.com/alexlampros/Pankey_case/blob/main/Table%2010.png)
+![table 8](https://github.com/alexlampros/Pankey_case/blob/main/Table%208.png)
+![table 9](https://github.com/alexlampros/Pankey_case/blob/main/Table%209.png)
+![table 10](https://github.com/alexlampros/Pankey_case/blob/main/Table%2010.png)
 
 
 
