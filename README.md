@@ -3,7 +3,7 @@ Our client Pankey Dental Institute provides continuous education services to den
 
 - Through factor and cluster analysis we are able to determine that Pankey should devote more courses to managing a practice. The majority of segments either agree or strongly agrees wtih this course of action (Table 12). This is especially true of participants with individual practices (Table 13). 
 - In the near term, Pankey should not invest in updating their curriculum as this has proven to not be a source of value for participants.
-- Courses V and VI appeal to Dentists with individual practices in non-metro areas, Pankey should incorporate this into their positioning strategy. 
+- Courses V and VI appeal to Dentists with individual practices in non-metro areas, Pankey should incorporate this into their positioning strategy (Table 8, 9, 10).
 
 
 
