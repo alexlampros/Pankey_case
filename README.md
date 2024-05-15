@@ -3,4 +3,6 @@ Our client Pankey Dental Institute provides continuous education services to den
 ## Analysis
 
 ## Survey
-![Alt text]()
+![Alt text](https://github.com/alexlampros/Pankey_case/blob/main/pankey%20survey%201.png)
+![Alt text](https://github.com/alexlampros/Pankey_case/blob/main/pankey%20survey%202.png)
+
