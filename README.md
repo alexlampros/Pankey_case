@@ -21,7 +21,7 @@ Our client Pankey Dental Institute provides continuous education services to den
 ![cluster analysis](https://github.com/alexlampros/Pankey_case/blob/main/cluster%20analysis.png)
 
 ### 4. All customer segments want more courses devoted to managing a practice. However, this is especially true for individual practices. 
-![by segment(https://github.com/alexlampros/Pankey_case/blob/main/improvement%20by%20segment.png)
+![by segment](https://github.com/alexlampros/Pankey_case/blob/main/improvement%20by%20segment.png)
 ![by practice](https://github.com/alexlampros/Pankey_case/blob/main/improvement%20by%20practice%20type.png)
 
 
