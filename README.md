@@ -7,7 +7,12 @@ Our client Pankey Dental Institute provides continuous education services to den
 
 ## Analysis
 
-We use perform a Factor Analysis using Principal Component Analysis to consolidate the issues our customers care about. 
+We use perform a **Factor Analysis** using **Principal Component Analysis** to consolidate the issues our customers care about.
+![Factor Analysis]()
+
+When we correlate these factors with overall satisfaction, we find that the Newness and Difficulty of the material in Pankey's courses do not play a significant role in overall satisfaction. 
+![correlation]()
+
 
 ## Pankey's Origninal Questionnaire
 ![Alt text](https://github.com/alexlampros/Pankey_case/blob/main/pankey%20survey%201.png)
