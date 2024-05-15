@@ -1,6 +1,10 @@
 # Pankey_case
 Our client Pankey Dental Institute provides continuous education services to dentists. Pankey provided a survey of customer satisfaction with their programs. Our task is to analyze the survey data and extract insights to improve Pankey's offerings. 
 
+- Through factor and cluster analysis we are able to determine that Pankey should devote more courses to managing a practice. The majority of segments either agree or strongly agrees wtih this course of action (Table 12). This is especially true of participants with individual practices (Table 13). 
+- In the near term, Pankey should not invest in updating their curriculum as this has proven to not be a source of value for participants.
+- Courses V and VI appeal to Dentists with individual practices in non-metro areas, Pankey should incorporate this into their positioning strategy. 
+
 
 
 
@@ -20,6 +24,8 @@ Our client Pankey Dental Institute provides continuous education services to den
 
 When we correlate these factors with overall satisfaction, we find that the Newness and Difficulty of the material in Pankey's courses do not play a significant role in overall satisfaction. 
 ![correlation](https://github.com/alexlampros/Pankey_case/blob/main/Correlation%20Analysis.png)
+
+
 
 
 ## Conclusion
