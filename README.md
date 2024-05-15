@@ -11,14 +11,16 @@ Our client Pankey Dental Institute provides continuous education services to den
 
 ## Analysis
 
-- We use perform a **Factor Analysis** using **Principal Component Analysis** to consolidate the issues our customers care about.
+1. We use perform a **Factor Analysis** using **Principal Component Analysis** to consolidate the issues our customers care about.
 ![Factor Analysis](https://github.com/alexlampros/Pankey_case/blob/main/Factor%20Analysis.png)
 
-When we correlate these factors with overall satisfaction, we find that the Newness and Difficulty of the material in Pankey's courses do not play a significant role in overall satisfaction. 
+2. When we correlate these factors with overall satisfaction, we find that the Newness and Difficulty of the material in Pankey's courses do not play a significant role in overall satisfaction. 
 ![correlation](https://github.com/alexlampros/Pankey_case/blob/main/Correlation%20Analysis.png)
 
-- We perform **Cluster Analysis** on our reduced set of factors to segment our customers. 
+3. We perform **Cluster Analysis** on our reduced set of factors to segment our customers. 
 ![cluster analysis](https://github.com/alexlampros/Pankey_case/blob/main/cluster%20analysis.png)
+
+
 
 
 
