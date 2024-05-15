@@ -7,7 +7,7 @@ Our client Pankey Dental Institute provides continuous education services to den
 
 ## Analysis
 
-We use perform a **Factor Analysis** using **Principal Component Analysis** to consolidate the issues our customers care about.
+- We use perform a **Factor Analysis** using **Principal Component Analysis** to consolidate the issues our customers care about.
 ![Factor Analysis](https://github.com/alexlampros/Pankey_case/blob/main/Factor%20Analysis.png)
 
 
